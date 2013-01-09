@@ -84,6 +84,7 @@ p  {
 
 .navbar .nav > li > a:hover {
     background-color: #847525;
+    color: #fff;
 }
 
 .navbar .nav > .active > a {
@@ -93,6 +94,7 @@ p  {
 
 .navbar .nav > .active > a:hover {
     background-color: #847525;
+    color: #fff;
 }
 
 /**************** MAIN ******************/
